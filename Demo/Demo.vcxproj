@@ -27,14 +27,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="qcCode\cmd_console_tools.cpp" />
-    <ClCompile Include="qcCode\exist.cpp" />
-    <ClCompile Include="qcCode\main.cpp" />
-    <ClCompile Include="qcCode\myself.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="qcCode\cmd_console_tools.h" />
-    <ClInclude Include="qcCode\QR.h" />
+    <ClCompile Include="mapFunc\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{3D6A64A8-80D4-4AEA-9112-6644B24A012C}</ProjectGuid>
